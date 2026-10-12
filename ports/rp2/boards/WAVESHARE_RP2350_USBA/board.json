@@ -1,0 +1,22 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Dual-core",
+        "External Flash",
+        "USB-C"
+    ],
+    "images": [
+        "waveshare_rp2350_usba.png"
+    ],
+    "mcu": "rp2350",
+    "product": "RP2350A Core",
+    "thumbnail": "",
+    "url": "https://www.waveshare.com/product/raspberry-pi/boards-kits/raspberry-pi-pico-13/rp2350-usb-a.htm",
+    "variants": {
+        "RISCV": "RISC V"
+    },
+    "vendor": "Waveshare"
+}
